@@ -1,4 +1,10 @@
-# ML_STOCK_TRADING_MODEL
+# ML_Stock_Trading_Model  
 
-following some comments on my article (https://medium.com/@rafikrahoui/effective-use-of-machine-learning-to-trade-stocks-b0b8a304b6d7), i decide to include this Jupyter note book, wich consiste of all the ideas i tested to build an effective predictive model.
+This project focuses on building an effective machine learning model for stock trading. It includes all the tested ideas and methodologies aimed at improving predictive accuracy in financial markets.  
 
+## Project Highlights  
+
+✅ **Data Collection & Preprocessing** – Handling financial data for model training  
+✅ **Feature Engineering** – Extracting meaningful insights for better predictions  
+✅ **Model Development** – Testing various ML algorithms for stock price forecasting  
+✅ **Evaluation & Optimization** – Enhancing model performance for real-world applications  
